@@ -19,3 +19,14 @@ python -m pip install numpy
 python -m pip install pandas
 
 python -m pip install matplotlib
+
+You'll need Jupyter Labs
+
+Guide to install here: https://jupyter.org/install
+
+pip install jupyterlab
+
+Once installed, to launch Jupyter Lab, in the cmd terminal, type 'jupyter lab' without the ''
+
+Inside Jupyter Lab, go to File/Open from Path... then open the ipynb file you've downloaded from
+this project's github page
